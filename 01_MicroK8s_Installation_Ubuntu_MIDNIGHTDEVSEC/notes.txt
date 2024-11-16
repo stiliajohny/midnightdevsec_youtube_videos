@@ -1,0 +1,16 @@
+# ToDo
+
+[x]Setting Up Ubuntu
+
+[x]Installing MicroK8s
+
+[x]Configuring MicroK8s
+
+[x]Enabling Add-Ons
+
+[x]Testing Deployment
+
+
+
+
+
